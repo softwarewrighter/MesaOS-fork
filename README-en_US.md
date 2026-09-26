@@ -14,6 +14,9 @@
 <p align="center">
   <b>Hybrid kernel</b> · <b>Preemptive multitasking</b> · <b>Linux driver shim</b> · <b>HD Audio</b> · <b>TCP/IP networking</b>
 </p>
+<p align="center">
+  📝 Blog: <a href="https://blog.softwarewrighter.com/2026/09/12/made-visible-mesaos/"><b>Made Visible: MesaOS</b></a> — visualizing this OS
+</p>
 
 ---
 ---
