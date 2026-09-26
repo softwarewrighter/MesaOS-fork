@@ -14,6 +14,9 @@
 <p align="center">
   <b>Kernel híbrido</b> · <b>Multitarea apropiativa</b> · <b>Shim de drivers Linux</b> · <b>Audio HD</b> · <b>Red TCP/IP</b>
 </p>
+<p align="center">
+  📝 Blog: <a href="https://blog.softwarewrighter.com/2026/09/12/made-visible-mesaos/"><b>Made Visible: MesaOS</b></a> — visualizando este sistema operativo / visualizing this OS
+</p>
 
 ---
 ---
